@@ -1,0 +1,20 @@
+{
+  "name": "my-program",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshi-Ponnu/java.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshi-Ponnu/java/issues"
+  },
+  "homepage": "https://github.com/Harshi-Ponnu/java#readme",
+  "description": ""
+}
