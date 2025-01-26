@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -18,3 +19,4 @@
   "homepage": "https://github.com/Harshi-Ponnu/java#readme",
   "description": ""
 }
+
