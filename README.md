@@ -6,8 +6,7 @@
 ## Steps to Execute the Script: 
 - Clone this repository and run `npm install`
 - Run `npm run test` to run all the tests, The terminal will display a summary of the test results, indicating which tests passed or failed. 
-- Run `npm run coverage` to generate coverage report
+- Run `npm run coverage` to generate coverage report and open `coverage/lcov-report/index.html` file to check reports.
 ## Tools and Frameworks Used:
 - Node.js and npm: Used to initialize the project and manage dependencies.
 - Jest: A JavaScript testing framework used to write and execute unit tests.
-
